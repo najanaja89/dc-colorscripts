@@ -1,0 +1,162 @@
+[
+  {
+    "id": "batman",
+    "name": "Batman",
+    "category": "heroes",
+    "available": true,
+    "sprite": "sprites/batman.json",
+    "palette": "sprites/batman.json#palette"
+  },
+  {
+    "id": "superman",
+    "name": "Superman",
+    "category": "heroes",
+    "available": true,
+    "sprite": "sprites/superman.json",
+    "palette": "sprites/superman.json#palette"
+  },
+  {
+    "id": "wonder-woman",
+    "name": "Wonder Woman",
+    "category": "heroes",
+    "available": true,
+    "sprite": "sprites/wonder-woman.json",
+    "palette": "sprites/wonder-woman.json#palette"
+  },
+  {
+    "id": "flash",
+    "name": "The Flash (Barry Allen)",
+    "category": "heroes",
+    "available": true,
+    "sprite": "sprites/flash.json",
+    "palette": "sprites/flash.json#palette"
+  },
+  {
+    "id": "green-lantern",
+    "name": "Green Lantern (Hal Jordan)",
+    "category": "heroes",
+    "available": true,
+    "sprite": "sprites/green-lantern.json",
+    "palette": "sprites/green-lantern.json#palette"
+  },
+  {
+    "id": "nightwing",
+    "name": "Nightwing",
+    "category": "heroes",
+    "available": true,
+    "sprite": "sprites/nightwing.json",
+    "palette": "sprites/nightwing.json#palette"
+  },
+  {
+    "id": "red-hood",
+    "name": "Red Hood",
+    "category": "heroes",
+    "available": true,
+    "sprite": "sprites/red-hood.json",
+    "palette": "sprites/red-hood.json#palette"
+  },
+  {
+    "id": "constantine",
+    "name": "John Constantine",
+    "category": "heroes",
+    "available": true,
+    "sprite": "sprites/constantine.json",
+    "palette": "sprites/constantine.json#palette"
+  },
+  {
+    "id": "rorschach",
+    "name": "Rorschach",
+    "category": "heroes",
+    "available": true,
+    "sprite": "sprites/rorschach.json",
+    "palette": "sprites/rorschach.json#palette"
+  },
+  {
+    "id": "doctor-manhattan",
+    "name": "Doctor Manhattan",
+    "category": "heroes",
+    "available": true,
+    "sprite": "sprites/doctor-manhattan.json",
+    "palette": "sprites/doctor-manhattan.json#palette"
+  },
+  {
+    "id": "joker",
+    "name": "Joker",
+    "category": "villains",
+    "available": true,
+    "sprite": "sprites/joker.json",
+    "palette": "sprites/joker.json#palette"
+  },
+  {
+    "id": "harley-quinn",
+    "name": "Harley Quinn",
+    "category": "villains",
+    "available": false,
+    "sprite": null,
+    "palette": null
+  },
+  {
+    "id": "darkseid",
+    "name": "Darkseid",
+    "category": "villains",
+    "available": false,
+    "sprite": null,
+    "palette": null
+  },
+  {
+    "id": "deathstroke",
+    "name": "Deathstroke",
+    "category": "villains",
+    "available": false,
+    "sprite": null,
+    "palette": null
+  },
+  {
+    "id": "reverse-flash",
+    "name": "Reverse-Flash",
+    "category": "villains",
+    "available": false,
+    "sprite": null,
+    "palette": null
+  },
+  {
+    "id": "lex-luthor",
+    "name": "Lex Luthor",
+    "category": "villains",
+    "available": false,
+    "sprite": null,
+    "palette": null
+  },
+  {
+    "id": "bane",
+    "name": "Bane",
+    "category": "villains",
+    "available": false,
+    "sprite": null,
+    "palette": null
+  },
+  {
+    "id": "brainiac",
+    "name": "Brainiac",
+    "category": "villains",
+    "available": false,
+    "sprite": null,
+    "palette": null
+  },
+  {
+    "id": "sinestro",
+    "name": "Sinestro",
+    "category": "villains",
+    "available": false,
+    "sprite": null,
+    "palette": null
+  },
+  {
+    "id": "doomsday",
+    "name": "Doomsday",
+    "category": "villains",
+    "available": false,
+    "sprite": null,
+    "palette": null
+  }
+]

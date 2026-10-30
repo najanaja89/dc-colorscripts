@@ -1,0 +1,219 @@
+{
+  "palette": {
+    "k": [
+      101,
+      65,
+      48
+    ],
+    "d": [
+      172,
+      129,
+      83
+    ],
+    "e": [
+      217,
+      181,
+      128
+    ],
+    "o": [
+      18,
+      20,
+      36
+    ],
+    "n": [
+      31,
+      40,
+      63
+    ],
+    "b": [
+      48,
+      65,
+      96
+    ],
+    "g": [
+      101,
+      121,
+      144
+    ],
+    "h": [
+      161,
+      182,
+      197
+    ],
+    "w": [
+      245,
+      241,
+      217
+    ],
+    "s": [
+      239,
+      181,
+      137
+    ],
+    "t": [
+      181,
+      112,
+      88
+    ],
+    "y": [
+      255,
+      209,
+      62
+    ],
+    "a": [
+      183,
+      124,
+      33
+    ],
+    "r": [
+      191,
+      33,
+      57
+    ],
+    "R": [
+      250,
+      68,
+      71
+    ],
+    "u": [
+      28,
+      82,
+      175
+    ],
+    "U": [
+      53,
+      142,
+      230
+    ],
+    "c": [
+      110,
+      199,
+      242
+    ],
+    "p": [
+      92,
+      39,
+      137
+    ],
+    "P": [
+      158,
+      71,
+      182
+    ],
+    "v": [
+      43,
+      128,
+      65
+    ],
+    "V": [
+      106,
+      211,
+      79
+    ],
+    "f": [
+      176,
+      197,
+      169
+    ]
+  },
+  "pixels": [
+    "........................................",
+    "........................................",
+    "..............aaayyaaaaay...............",
+    ".............yaayyyyaayyyy..............",
+    "............ayyyyyyyyyyyyyy.............",
+    "...........ayyyyyyyyyyyyyyyy............",
+    "...........ayyyyyyyyysyyyyya............",
+    "...........ayyyasyyysssyyyaa............",
+    "...........ayyasssysssssyaaa...g........",
+    "............aaassssssssssaas...g........",
+    "............aaasssssssssssa.....h.......",
+    "............aasssssssssssss.....h.......",
+    ".............ssooosssssooos.....h.......",
+    ".............ssssssstssssss....g........",
+    ".............ssssssstssssss....g........",
+    ".............ssssssstsssss.....g........",
+    ".............ssssssstsssss..............",
+    ".............ssssssssssswwwwwRR.........",
+    "..............sssstttttss...............",
+    "...............stttttttt................",
+    "................tttttttt................",
+    ".................ttttttt................",
+    "...........ddddddtttttttdddd............",
+    "..........ndaddddtttttttddadn...........",
+    ".........ddddaaawwwwwwwaaadddn..........",
+    "........dddddaaaawwwwwaaaaddddn.........",
+    ".......ddddddaaaawwwwwaaaadddddn........",
+    "......ddddddddaawwwrrrwaaddddddd........",
+    "......dddddddaaawwwrrrwaaadddddd........",
+    "......deeddddaaawwwrrrwaaaddddddd.......",
+    ".....ddeeddddaaawwwrrrwaaaddddddd.......",
+    ".....ddeeddddaaawwwwrwwaaaddddddd.......",
+    ".....ddeedddddadwwwrrrwwadddddddd.......",
+    ".....ddeedddddddwwwrrrwwdddddddddd......",
+    ".....ddeedddddddwwwrrrwwdddddddddd......",
+    ".....ddeedddddddwwwrrrwwdddddddddd......",
+    ".....ddeedddddddwwwrrrwwdddddddddd......",
+    "....dddeedddddddwwrrrwwwddddddddddd.....",
+    "....ddddddddddddwwrrrwwwddddddddddd.....",
+    "....ddddddddddddwwwrrwwwdddddddddds.....",
+    ".....dddddddddddwwwwrwwwddddddsssss.....",
+    ".....sssssddddddddddddddddddddsssss.....",
+    ".....sssssddddddddddddddddddddsssss.....",
+    ".....ssssskkkkddnnn...ndddkkkksssss.....",
+    ".....ssssskkkkddnnn...ndddkkkkddsss.....",
+    ".......dddddddddnnn...nddddddddd........",
+    ".......ddddddddnnnn...nndddddddd........",
+    ".......ddddddddbnnn...nbdddddddd........",
+    ".......ddddddddbnnn...nbdddddddd........",
+    ".......ddddddddbnnn...nbdddddddd........",
+    ".......ddddddddbnnn...nbdddddddd........",
+    "......dddddddddbnnn...nbddddddddd.......",
+    "......dddddddddbnnn...nbddddddddd.......",
+    "......ddddddddbbnnn...nbbdddddddd.......",
+    "......ddddddddbbnnn...nbbdddddddd.......",
+    "..........ddddooooo...ooodddd...........",
+    "............ooooooo...ooooooo...........",
+    "............ooooooo...ooooooo...........",
+    "............ooooooo...ooooooo...........",
+    "............ooooooo...ooooooo...........",
+    "..........ooooooooo...ooooooooo.........",
+    "..........ooooooooo...ooooooooo.........",
+    "..........ooooooooo...ooooooooo.........",
+    "........................................"
+  ],
+  "compact_pixels": [
+    "....................",
+    "......yayyayy.......",
+    ".....ayyayyyyy......",
+    ".....aayyyayaa......",
+    "......asssssas.g....",
+    "......asssssa.......",
+    "......sosssos..g....",
+    "......sststss..g....",
+    "......sstttswwR.....",
+    ".......stttt........",
+    "........tttt........",
+    ".....dddttttdd......",
+    "....ddaawwwaadd.....",
+    "...ddddawwrwdddd....",
+    "...eddaawwrwaddd....",
+    "..deddaawwrwaddd....",
+    "..deddddwwrrddddd...",
+    "..deddddwrrwddddd...",
+    "..deddddwrwwddddd...",
+    "..ddddddwrwwddddd...",
+    "..sssddddddddddss...",
+    "..ssskkdn..ddkkss...",
+    "...dddddn..ddddd....",
+    "...ddddbn..bdddd....",
+    "...ddddbn..bdddd....",
+    "...ddddbn..bdddd....",
+    "...ddddbn..bdddd....",
+    ".....ddoo..odd......",
+    "......ooo..ooo......",
+    "......ooo..ooo......",
+    ".....oooo..oooo.....",
+    "...................."
+  ]
+}

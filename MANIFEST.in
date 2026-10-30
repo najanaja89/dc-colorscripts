@@ -1,0 +1,4 @@
+include AGENTS.md CONTRIBUTING.md
+recursive-include tools *.py
+recursive-include docs *.md *.svg
+recursive-include .github *.yml

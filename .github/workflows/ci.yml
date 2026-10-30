@@ -1,0 +1,39 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ['3.11', '3.12', '3.13', '3.14']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - run: python -m pip install '.[dev]'
+      - run: ruff check .
+      - run: ruff format --check .
+      - run: python -m pytest
+      - run: python -m build
+      - name: Verify wheel in a fresh environment
+        run: |
+          python -m venv /tmp/wheel-check
+          /tmp/wheel-check/bin/pip install --no-deps dist/*.whl
+          cd /tmp
+          /tmp/wheel-check/bin/dc-colorscripts --name batman --color truecolor
+          /tmp/wheel-check/bin/dc-colorscripts --name superman --lang ru
+          /tmp/wheel-check/bin/dc-colorscripts --name joker --quote-only
+      - name: Build single-file executable
+        run: python tools/build_zipapp.py
+      - name: Verify executable without installed packages
+        run: |
+          cd /tmp
+          python -I "$GITHUB_WORKSPACE/dist/dc-colorscripts" --name joker --lang ru
+      - uses: actions/upload-artifact@v4
+        if: matrix.python == '3.14'
+        with:
+          name: dc-colorscripts-single-file
+          path: |
+            dist/dc-colorscripts
+            dist/dc-colorscripts.sha256

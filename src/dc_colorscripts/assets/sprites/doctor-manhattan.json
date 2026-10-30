@@ -1,0 +1,219 @@
+{
+  "palette": {
+    "k": [
+      101,
+      65,
+      48
+    ],
+    "d": [
+      172,
+      129,
+      83
+    ],
+    "e": [
+      217,
+      181,
+      128
+    ],
+    "o": [
+      18,
+      20,
+      36
+    ],
+    "n": [
+      31,
+      40,
+      63
+    ],
+    "b": [
+      48,
+      65,
+      96
+    ],
+    "g": [
+      101,
+      121,
+      144
+    ],
+    "h": [
+      161,
+      182,
+      197
+    ],
+    "w": [
+      245,
+      241,
+      217
+    ],
+    "s": [
+      239,
+      181,
+      137
+    ],
+    "t": [
+      181,
+      112,
+      88
+    ],
+    "y": [
+      255,
+      209,
+      62
+    ],
+    "a": [
+      183,
+      124,
+      33
+    ],
+    "r": [
+      191,
+      33,
+      57
+    ],
+    "R": [
+      250,
+      68,
+      71
+    ],
+    "u": [
+      28,
+      82,
+      175
+    ],
+    "U": [
+      53,
+      142,
+      230
+    ],
+    "c": [
+      110,
+      199,
+      242
+    ],
+    "p": [
+      92,
+      39,
+      137
+    ],
+    "P": [
+      158,
+      71,
+      182
+    ],
+    "v": [
+      43,
+      128,
+      65
+    ],
+    "V": [
+      106,
+      211,
+      79
+    ],
+    "f": [
+      176,
+      197,
+      169
+    ]
+  },
+  "pixels": [
+    "........................................",
+    "........................................",
+    "........................................",
+    "...............UUUUUUUUU................",
+    "..............UUUUUUUUUUU...............",
+    ".............UUUUUuuuuuUUU..............",
+    "............cUUUUUucccuUUUU.............",
+    "............UUccccucocuUUUUU............",
+    "............UUccccucccuUUUUU............",
+    "............UUccccuuuuuUUUUU............",
+    "............UUccccUUUUUUUUUU............",
+    "............UUccccUUUUUUUUUU............",
+    "............UUcwwwwUUUwwwwU.............",
+    "............UUcwwwwUUUwwwwU.............",
+    "............UUccccUUUUUUUUU.............",
+    "............UUUUUUUUUUUUUUU.............",
+    "............UUUUcccccccccUU.............",
+    ".............UUUcccccccccU..............",
+    "..............UUccccccccc...............",
+    "...............UUUuuuuuU................",
+    "................cccccccU................",
+    ".................UUUUUUU................",
+    "............UUUUUUUUUUUUUUU.............",
+    "..........U.UUUUUUUUUUUUUUU.U...........",
+    ".........UU.UUUcccUUUUccUUU.UU..........",
+    "........UUUUUccccccUUccccccUUUU.........",
+    ".......UUUUUUccccccccccccccUUUUU........",
+    ".......UUUUUUccccccUUcccccUUUUUU........",
+    ".......ccUUUUccccccUUcccccUUUUUU........",
+    "......UccUUUUccccccUUcccccUUUUUUU.......",
+    "......UccUUUUccccccUUccccUUUUUUUU.......",
+    "......UccUUUUccccccUUccccUUUUUUUU.......",
+    "......UccUUUUcccccUUUccUUUUUUUUUU.......",
+    "......UccUUUUccccUUUUUUUUUUUUUUUU.......",
+    "......UccUUUUccccccUUUcccUUUUUUUU.......",
+    "......UccUUUUUUUcccUUccccUUUUUUUU.......",
+    ".....UUUUUUUUUUUUccUUccccUUUUUUUUU......",
+    ".....UUUUUU.UUUUUccUUccccUU.UUUUUU......",
+    ".....UUUUUU.UUUUUUUUUUUUUUU.UUUUUU......",
+    ".....UUUUU..UUUUUUUUUUUUUUU..UUUUUU.....",
+    ".....UUUUU...oooooooooooooo..UUUUUU.....",
+    ".....UUUUU...oooooooooooooo..UUUUUU.....",
+    ".....UUUUU...oooooooooooooUU..UUUUU.....",
+    ".....UUUUU...UooooooooooooUU..UUUUU.....",
+    ".....UUUUU...UooooooooooooUU..UUUUU.....",
+    ".............UUooooooooooUUU............",
+    ".............UUUooooooooUUUU............",
+    ".............UccUUooooUccUUU............",
+    ".............UccUUUoo.UccUUU............",
+    ".............UccUUU...UccUUU............",
+    ".............UccUUU...UccUUU............",
+    ".............UccUUU...UccUUU............",
+    ".............UccUUU...UccUUU............",
+    ".............UccUUU...UccUUU............",
+    ".............UccUUU...UccUUU............",
+    "............UUUUUUU...UUUUUUU...........",
+    "............UccUUUU...UccUUUU...........",
+    "............UccUUUU...UccUUUU...........",
+    "............UccUUUU...UccUUUU...........",
+    "............UccUUUU...UccUUUU...........",
+    "..........ccccccccc...ccccccccc.........",
+    "..........ccccccccc...ccccccccc.........",
+    "..........UUUUUUUUU...UUUUUUUUU.........",
+    "........................................"
+  ],
+  "compact_pixels": [
+    "....................",
+    ".......UUUUU........",
+    "......UUUUUUU.......",
+    "......UcuocUUU......",
+    "......UcUocUUU......",
+    "......UccccUUU......",
+    "......UwwUwwU.......",
+    "......UccUccU.......",
+    "......UcccccU.......",
+    "......UUuuuUU.......",
+    "........UUUU........",
+    "......UUUUUUU.......",
+    "....UUcccUcccUU.....",
+    "...UUUcccUUccUUU....",
+    "...cUUcccUUccUUU....",
+    "...cUUccUUUUcUUU....",
+    "...cUUccUUUUUUUU....",
+    "...cUUUUcUccUUUU....",
+    "..UUU.UUcUccU.UUU...",
+    "..UUU.UUUUUUU.UUU...",
+    "..UUU.ooooooo.UUU...",
+    "..UUU.UooooooU.UU...",
+    "......UoooooUU......",
+    "......UcUoocUU......",
+    "......UcU..cUU......",
+    "......UcU..cUU......",
+    "......UcU..cUU......",
+    "......UUU..UUU......",
+    "......cUU..cUU......",
+    "......cUU..cUU......",
+    ".....cccc..cccc.....",
+    "...................."
+  ]
+}
